@@ -1,5 +1,6 @@
 from flask import Flask, request
 import psycopg2
+import csv
 APP = Flask(__name__)
 
 @APP.route("/get_user_details", methods=["GET"])
@@ -18,8 +19,18 @@ def get_user_details():
         cur = conn.cursor()
         sql = "INSERT INTO public.user_details(id, firstname, lastname, email)	VALUES (%s, %s, %s, %s);"
         cur.execute(sql, (id, firstname, lastname, email))
-        conn.commit()
+        conn.commit()   
+
+        query = "SELECT * FROM public.user_details order by id;"
+        cur.execute(query)
+  
+        with open('result.csv', 'w') as f:
+            writer = csv.writer(f, delimiter=',')
+            for row in cur.fetchall():
+                writer.writerow(row)
+        cur.close()
         conn.close()
+
         return "Record inserted successfully!"
     except Exception as e:
         return(str(e))
