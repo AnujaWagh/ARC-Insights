@@ -1,0 +1,43 @@
+<!-- Import css -->
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="{{ url_for('static', filename= 'css/style.css') }}">
+    <title>ARC Task</title>
+</head>
+
+
+<div class="wrapper">
+<button class="bubbly-button" onclick="window.location.href='{{ url_for( 'get_user_details') }}';">Fetch Data</but1d8aabton>
+<button style="margin-left: 130px;"   class="bubbly-button bubbly-button-blue">Download CSV</button>
+</br>
+</br>
+    <div class="table">
+      <div class="row header blue">
+        {% for header in headings %}
+        <div class="cell">
+          {{ header }}
+        </div>
+        {% endfor %}
+      </div>
+      
+      {% for row in data %}
+      <div class="row">
+        <div class="cell" data-title="Username">
+          {{ row[0] }}
+        </div>
+        <div class="cell" data-title="Email">
+          {{ row[1] }}
+        </div>
+        <div class="cell" data-title="Password">
+          {{ row[2] }}
+        </div>
+        <div class="cell" data-title="Active">
+          {{ row[3] }}
+        </div>
+      </div>
+      {% endfor %}      
+    </div>
+  </div>
+
+<!-- Import js -->
+<script src="{{ url_for('static', filename= 'index.js') }}"></script>
