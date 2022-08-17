@@ -1,0 +1,443 @@
+{
+ "etag": "dd06096fb037f391b4a311a2925c01dc196ff4f8",
+ "top_hit": {
+  "company_name": "INDIANOS RESTAURANT LIMITED",
+  "company_number": "07803460",
+  "company_status": "dissolved",
+  "company_type": "ltd",
+  "kind": "search-results#company",
+  "links": {
+   "company_profile": "/company/07803460"
+  },
+  "date_of_cessation": "2016-01-19",
+  "date_of_creation": "2011-10-10",
+  "registered_office_address": {
+   "address_line_1": "1022 - 1024 Coventry Road",
+   "locality": "Birmingham"
+  },
+  "sic_codes": [
+   "96090"
+  ]
+ },
+ "items": [
+  {
+   "company_name": "INDIANOS RESTAURANT LIMITED",
+   "company_number": "07803460",
+   "company_status": "dissolved",
+   "company_type": "ltd",
+   "kind": "search-results#company",
+   "links": {
+    "company_profile": "/company/07803460"
+   },
+   "date_of_cessation": "2016-01-19",
+   "date_of_creation": "2011-10-10",
+   "registered_office_address": {
+    "address_line_1": "1022 - 1024 Coventry Road",
+    "locality": "Birmingham"
+   },
+   "sic_codes": [
+    "96090"
+   ]
+  },
+  {
+   "company_name": "ZHELEV (UK) LIMITED",
+   "company_number": "07803574",
+   "company_status": "dissolved",
+   "company_type": "ltd",
+   "kind": "search-results#company",
+   "links": {
+    "company_profile": "/company/07803574"
+   },
+   "date_of_cessation": "2016-02-16",
+   "date_of_creation": "2011-10-10",
+   "registered_office_address": {
+    "address_line_1": "1 Bradmead",
+    "locality": "London",
+    "postal_code": "SW8 4AG"
+   },
+   "sic_codes": [
+    "81210",
+    "81299"
+   ]
+  },
+  {
+   "company_name": "LA EDRA LIMITED",
+   "company_number": "07803626",
+   "company_status": "dissolved",
+   "company_type": "ltd",
+   "kind": "search-results#company",
+   "links": {
+    "company_profile": "/company/07803626"
+   },
+   "date_of_cessation": "2017-10-17",
+   "date_of_creation": "2011-10-10",
+   "registered_office_address": {
+    "address_line_1": "Stron House",
+    "address_line_2": "100 Pall Mall",
+    "locality": "London",
+    "postal_code": "SW1Y 5EA"
+   },
+   "sic_codes": [
+    "99999"
+   ]
+  },
+  {
+   "company_name": "SARAH MAY JEWELLERY LIMITED",
+   "company_number": "07803673",
+   "company_status": "dissolved",
+   "company_type": "ltd",
+   "kind": "search-results#company",
+   "links": {
+    "company_profile": "/company/07803673"
+   },
+   "date_of_cessation": "2016-08-18",
+   "date_of_creation": "2011-10-10",
+   "registered_office_address": {
+    "address_line_1": "2 Spring Close",
+    "locality": "Lutterworth",
+    "postal_code": "LE17 4DD",
+    "region": "Leicestershire"
+   },
+   "sic_codes": [
+    "47770"
+   ]
+  },
+  {
+   "company_name": "VILLA NO. 1 LA MANGA LTD.",
+   "company_number": "07803687",
+   "company_status": "dissolved",
+   "company_type": "ltd",
+   "kind": "search-results#company",
+   "links": {
+    "company_profile": "/company/07803687"
+   },
+   "date_of_cessation": "2021-04-06",
+   "date_of_creation": "2011-10-10",
+   "registered_office_address": {
+    "address_line_1": "Moongate Chelford Road",
+    "address_line_2": "Prestbury",
+    "locality": "Macclesfield",
+    "postal_code": "SK10 4AW",
+    "region": "Cheshire"
+   },
+   "sic_codes": [
+    "99999"
+   ]
+  },
+  {
+   "company_name": "MADE ON EARTH LIMITED",
+   "company_number": "07803694",
+   "company_status": "active",
+   "company_type": "ltd",
+   "kind": "search-results#company",
+   "links": {
+    "company_profile": "/company/07803694"
+   },
+   "date_of_creation": "2011-10-10",
+   "registered_office_address": {
+    "address_line_1": "20 Kirkgate",
+    "address_line_2": "Sheburn In Elmet",
+    "locality": "Leeds",
+    "postal_code": "LS25 6BL"
+   },
+   "sic_codes": [
+    "46690"
+   ]
+  },
+  {
+   "company_name": "CELL REGENERATION LTD",
+   "company_number": "07803740",
+   "company_status": "active",
+   "company_type": "ltd",
+   "kind": "search-results#company",
+   "links": {
+    "company_profile": "/company/07803740"
+   },
+   "date_of_creation": "2011-10-10",
+   "registered_office_address": {
+    "address_line_1": "15a Greatford Road",
+    "address_line_2": "Baston",
+    "locality": "Peterborough",
+    "postal_code": "PE6 9NR"
+   },
+   "sic_codes": [
+    "86220"
+   ]
+  },
+  {
+   "company_name": "PWOB LIMITED",
+   "company_number": "07803764",
+   "company_status": "dissolved",
+   "company_type": "ltd",
+   "kind": "search-results#company",
+   "links": {
+    "company_profile": "/company/07803764"
+   },
+   "date_of_cessation": "2019-08-20",
+   "date_of_creation": "2011-10-10",
+   "registered_office_address": {
+    "address_line_1": "40 Hazeldene Gardens",
+    "locality": "Uxbridge",
+    "postal_code": "UB10 9DJ",
+    "country": "England"
+   },
+   "sic_codes": [
+    "62020"
+   ]
+  },
+  {
+   "company_name": "JWT COMMERCIAL LTD",
+   "company_number": "07803885",
+   "company_status": "administration",
+   "company_type": "ltd",
+   "kind": "search-results#company",
+   "links": {
+    "company_profile": "/company/07803885"
+   },
+   "date_of_creation": "2011-10-10",
+   "registered_office_address": {
+    "address_line_1": "C/O Duff& Phelps Ltd The Chancery",
+    "address_line_2": "58 Spring Gardens",
+    "locality": "Manchester",
+    "postal_code": "M2 1EW"
+   },
+   "sic_codes": [
+    "49410"
+   ]
+  },
+  {
+   "company_name": "OANA24 LIMITED",
+   "company_number": "07803892",
+   "company_status": "dissolved",
+   "company_type": "ltd",
+   "kind": "search-results#company",
+   "links": {
+    "company_profile": "/company/07803892"
+   },
+   "date_of_cessation": "2016-08-09",
+   "date_of_creation": "2011-10-10",
+   "registered_office_address": {
+    "address_line_1": "17 Chillery Leys",
+    "address_line_2": "Willen",
+    "locality": "Milton Keynes",
+    "postal_code": "MK15 9LZ",
+    "country": "United Kingdom"
+   },
+   "sic_codes": [
+    "82990"
+   ]
+  },
+  {
+   "company_name": "ATLANT JOINERY LTD",
+   "company_number": "07803904",
+   "company_status": "active",
+   "company_type": "ltd",
+   "kind": "search-results#company",
+   "links": {
+    "company_profile": "/company/07803904"
+   },
+   "date_of_creation": "2011-10-10",
+   "registered_office_address": {
+    "address_line_1": "26 Park Drive",
+    "locality": "Romford",
+    "postal_code": "RM1 4LH",
+    "country": "England"
+   },
+   "sic_codes": [
+    "43390"
+   ]
+  },
+  {
+   "company_name": "WALTHAM FOREST NOOR UL ISLAM",
+   "company_number": "07803945",
+   "company_status": "active",
+   "company_type": "private-limited-guarant-nsc-limited-exemption",
+   "kind": "search-results#company",
+   "links": {
+    "company_profile": "/company/07803945"
+   },
+   "date_of_creation": "2011-10-10",
+   "registered_office_address": {
+    "address_line_1": "713 High Road",
+    "locality": "Leyton",
+    "postal_code": "E10 5AB",
+    "region": "London"
+   },
+   "sic_codes": [
+    "94910"
+   ]
+  },
+  {
+   "company_name": "FINGERPRINT ME LIMITED",
+   "company_number": "07803968",
+   "company_status": "dissolved",
+   "company_type": "ltd",
+   "kind": "search-results#company",
+   "links": {
+    "company_profile": "/company/07803968"
+   },
+   "date_of_cessation": "2021-03-16",
+   "date_of_creation": "2011-10-10",
+   "registered_office_address": {
+    "address_line_1": "8 The Sidings",
+    "locality": "Irthlingborough",
+    "postal_code": "NN9 5RZ",
+    "region": "Northamptonshire"
+   },
+   "sic_codes": [
+    "74909"
+   ]
+  },
+  {
+   "company_name": "MARTIN HANSEN CONSULTING LTD",
+   "company_number": "07804010",
+   "company_status": "dissolved",
+   "company_type": "ltd",
+   "kind": "search-results#company",
+   "links": {
+    "company_profile": "/company/07804010"
+   },
+   "date_of_cessation": "2016-02-02",
+   "date_of_creation": "2011-10-10",
+   "registered_office_address": {
+    "address_line_1": "4 Hunt Drive",
+    "address_line_2": "Thorpe Park",
+    "locality": "Melton Mowbray",
+    "postal_code": "LE13 1PB",
+    "region": "Leicestershire"
+   },
+   "sic_codes": [
+    "62020"
+   ]
+  },
+  {
+   "company_name": "PRICERIGHT ENERGY LIMITED",
+   "company_number": "07804013",
+   "company_status": "dissolved",
+   "company_type": "ltd",
+   "kind": "search-results#company",
+   "links": {
+    "company_profile": "/company/07804013"
+   },
+   "date_of_cessation": "2019-03-05",
+   "date_of_creation": "2011-10-10",
+   "registered_office_address": {
+    "address_line_1": "Virgo House",
+    "address_line_2": "Caledonia Street",
+    "locality": "Bradford",
+    "postal_code": "BD4 7BJ",
+    "region": "West Yorkshire"
+   },
+   "sic_codes": [
+    "81100"
+   ]
+  },
+  {
+   "company_name": "VCB COPY LIMITED",
+   "company_number": "07804015",
+   "company_status": "active",
+   "company_type": "ltd",
+   "kind": "search-results#company",
+   "links": {
+    "company_profile": "/company/07804015"
+   },
+   "date_of_creation": "2011-10-10",
+   "registered_office_address": {
+    "address_line_1": "8 Old Forge Court Colchester Road",
+    "address_line_2": "Elmstead",
+    "locality": "Colchester",
+    "postal_code": "CO7 7EA",
+    "country": "England"
+   },
+   "sic_codes": [
+    "82990"
+   ]
+  },
+  {
+   "company_name": "DEVELOP WORKFORCE SOLUTIONS LIMITED",
+   "company_number": "07804017",
+   "company_status": "dissolved",
+   "company_type": "ltd",
+   "kind": "search-results#company",
+   "links": {
+    "company_profile": "/company/07804017"
+   },
+   "date_of_cessation": "2015-04-14",
+   "date_of_creation": "2011-10-10",
+   "registered_office_address": {
+    "address_line_1": "42 Market Street",
+    "locality": "Eckington",
+    "postal_code": "S21 4JH",
+    "region": "Derbyshire"
+   },
+   "sic_codes": [
+    "99999"
+   ]
+  },
+  {
+   "company_name": "COMMUNITY RESEARCH AND DEVELOPMENT ORGANISATION",
+   "company_number": "07804021",
+   "company_status": "dissolved",
+   "company_type": "private-limited-guarant-nsc-limited-exemption",
+   "kind": "search-results#company",
+   "links": {
+    "company_profile": "/company/07804021"
+   },
+   "date_of_cessation": "2015-01-06",
+   "date_of_creation": "2011-10-10",
+   "registered_office_address": {
+    "address_line_1": "14 Mayfield Road",
+    "address_line_2": "Plaistow",
+    "locality": "London",
+    "postal_code": "E13 8EJ"
+   },
+   "sic_codes": [
+    "70100"
+   ]
+  },
+  {
+   "company_name": "TELEPORTD LIMITED",
+   "company_number": "07804024",
+   "company_status": "dissolved",
+   "company_type": "ltd",
+   "kind": "search-results#company",
+   "links": {
+    "company_profile": "/company/07804024"
+   },
+   "date_of_cessation": "2017-07-07",
+   "date_of_creation": "2011-10-10",
+   "registered_office_address": {
+    "address_line_1": "The Shard 32 London Bridge Street",
+    "locality": "London",
+    "postal_code": "SE1 9SG"
+   },
+   "sic_codes": [
+    "82990"
+   ]
+  },
+  {
+   "company_name": "GEDIGITAL LIMITED",
+   "company_number": "07803579",
+   "company_status": "dissolved",
+   "company_type": "ltd",
+   "kind": "search-results#company",
+   "links": {
+    "company_profile": "/company/07803579"
+   },
+   "date_of_cessation": "2014-10-21",
+   "date_of_creation": "2011-10-10",
+   "registered_office_address": {
+    "address_line_1": "30 Cherbury Close",
+    "locality": "London",
+    "postal_code": "SE28 8PG",
+    "region": "London",
+    "country": "England"
+   },
+   "sic_codes": [
+    "47430"
+   ]
+  }
+ ],
+ "kind": "search#advanced-search",
+ "hits": 10557582
+}
