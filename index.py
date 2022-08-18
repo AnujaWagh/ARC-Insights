@@ -62,7 +62,7 @@ def getPlotCSV():
         
         # Generate CSV FILE
         workbook = xlwt.Workbook()
-        worksheet = workbook.add_sheet(os.path.split('output.csv')[1])
+        worksheet = workbook.add_sheet(os.path.split('/tmp/output.csv')[1])
 
         worksheet.set_panes_frozen(True)
         worksheet.set_horz_split_pos(0)
@@ -77,9 +77,9 @@ def getPlotCSV():
                 worksheet.write(rowidx+1, colindex, col)
 
         # All done
-        workbook.save('output.csv')
+        workbook.save('/tmp/output.csv')
 
-        csv_file = "output.csv"
+        csv_file = "/tmp/output.csv"
         csv_path = os.path.join(csv_file)
         
         # Also make sure the requested csv file does exist
@@ -95,7 +95,7 @@ def getPlotCSV():
 
 
     # workbook = xlwt.Workbook()
-    # worksheet = workbook.add_sheet(os.path.split('output.csv')[1])
+    # worksheet = workbook.add_sheet(os.path.split('/tmp/output.csv')[1])
 
     # worksheet.set_panes_frozen(True)
     # worksheet.set_horz_split_pos(0)
@@ -110,7 +110,7 @@ def getPlotCSV():
     #         worksheet.write(rowidx+1, colindex, col)
 
     # All done
-    # workbook.save('output.csv')
+    # workbook.save('/tmp/output.csv')
 
 if __name__ == "__main__":
     port = 5000
