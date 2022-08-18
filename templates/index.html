@@ -3,10 +3,15 @@
     <meta charset="UTF-8">
     <link rel="stylesheet" href="{{ url_for('static', filename= 'css/style.css') }}">
     <title>ARC Task</title>
+    <a href="{{ url_for('index') }}" > 
+      <h1 style="color:rgb(48, 14, 3);font-size:40px;">
+        <strong>ARC Insight</strong>
+      </h1>
+    </a>
 </head>
 
-
 <div class="wrapper">
+<margin-top: 1em; >
 <button class="bubbly-button" onclick="window.location.href='{{ url_for( 'get_user_details') }}';">Fetch Data</but1d8aabton>
 <button style="margin-left: 130px;"   class="bubbly-button bubbly-button-blue" onclick="window.location.href='{{ url_for('getPlotCSV')}}';">Download CSV</button>
 </br>
@@ -37,6 +42,7 @@
       </div>
       {% endfor %}      
     </div>
+  </margin-top:>
   </div>
 
 <!-- Import js -->
