@@ -1,9 +1,7 @@
-from flask import Flask, request, render_template, Response, send_file
+from flask import Flask, request, render_template, send_file
 import psycopg2
 import os
-import csv
 import xlwt
-import pandas as pd
 app = Flask(__name__)
 
 @app.route('/')
