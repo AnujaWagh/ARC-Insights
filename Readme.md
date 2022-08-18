@@ -20,7 +20,7 @@
 
         http://127.0.0.1:5000
 
-* Follow below path To insert data into database (pass user input values to the query parameters)
+* Follow below path to insert data into database (pass user input values to the query parameters)
 
         http://127.0.0.1:5000/insert_details?firstname=first_name&lastname=last_name&email=email
 
